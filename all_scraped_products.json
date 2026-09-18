@@ -1,0 +1,1981 @@
+[
+  {
+    "id": "ss-9635186245864",
+    "atelierId": "sana-safinaz",
+    "category": "clothing",
+    "subCategory": "Architectural Silks",
+    "brand": "Sana Safinaz",
+    "title": "Stitched Printed Wesst Satin Shirt",
+    "basePrice": 324,
+    "wasPrice": 648,
+    "isOnSale": true,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Mayfair Vault, London & Lahore",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.8%",
+    "inspectedAt": "Lahore Master Atelier & London Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-50%)",
+    "colorName": "Ivory",
+    "colorHex": "#FAF7F2",
+    "description": "Description: Coordinated ease, refined into a seasonal essential Color: Beige Fabric: Satin Cut: Basic Slip: Not Included Dupatta: Not Included Trouser: Not Included",
+    "details": {
+      "composition": "Pure Silk / Cambric Brochia luxury weave.",
+      "craftsmanship": "Master-tailored in Lahore atelier; forensic stitch vetting verified.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Funds bonded until client verification."
+    },
+    "sizes": {
+      "UK": [
+        "UK S",
+        "UK M"
+      ],
+      "EU": [
+        "EU S",
+        "EU M"
+      ],
+      "US": [
+        "US S",
+        "US M"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25WSU184P2T_1_1.jpg?v=1764570934",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25WSU184P2T_3_1.jpg?v=1764570934",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25WSU184P2T_1_1.jpg?v=1764570934",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25WSU184P2T_3_1.jpg?v=1764570934",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25WSU184P2T_2_1.jpg?v=1764570934"
+    ]
+  },
+  {
+    "id": "ss-9635181363432",
+    "atelierId": "sana-safinaz",
+    "category": "clothing",
+    "subCategory": "Haute Prêt",
+    "brand": "Sana Safinaz",
+    "title": "Stitched Brochia Shalwar",
+    "basePrice": 248,
+    "wasPrice": 496,
+    "isOnSale": true,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Mayfair Vault, London & Lahore",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.8%",
+    "inspectedAt": "Lahore Master Atelier & London Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-50%)",
+    "colorName": "Ivory",
+    "colorHex": "#FAF7F2",
+    "description": "Description: Crafted with intention, finished with finesse - this is where technique becomes art. Fabric: Brochia Cut: Skinny Shalwar",
+    "details": {
+      "composition": "Pure Silk / Cambric Brochia luxury weave.",
+      "craftsmanship": "Master-tailored in Lahore atelier; forensic stitch vetting verified.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Funds bonded until client verification."
+    },
+    "sizes": {
+      "UK": [
+        "UK M",
+        "UK L",
+        "UK XL"
+      ],
+      "EU": [
+        "EU M",
+        "EU L",
+        "EU XL"
+      ],
+      "US": [
+        "US M",
+        "US L",
+        "US XL"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25sge353p3_1_1.jpg?v=1756730679",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25sge353p3_1.jpg?v=1756730679",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25sge353p3_1_1.jpg?v=1756730679",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25sge353p3_1.jpg?v=1756730679",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25sge353p3_3.jpg?v=1756730680"
+    ]
+  },
+  {
+    "id": "ss-9635180118248",
+    "atelierId": "sana-safinaz",
+    "category": "clothing",
+    "subCategory": "Haute Prêt",
+    "brand": "Sana Safinaz",
+    "title": "Stitched Embroidered Raw Silk Zuri Shalwar",
+    "basePrice": 248,
+    "wasPrice": 496,
+    "isOnSale": true,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Mayfair Vault, London & Lahore",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.8%",
+    "inspectedAt": "Lahore Master Atelier & London Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-50%)",
+    "colorName": "Ivory",
+    "colorHex": "#FAF7F2",
+    "description": "Color: Beige Fabric: Raw Silk Cut: Zuri Shalwar",
+    "details": {
+      "composition": "Pure Silk / Cambric Brochia luxury weave.",
+      "craftsmanship": "Master-tailored in Lahore atelier; forensic stitch vetting verified.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Funds bonded until client verification."
+    },
+    "sizes": {
+      "UK": [
+        "UK XS",
+        "UK S",
+        "UK M",
+        "UK L"
+      ],
+      "EU": [
+        "EU XS",
+        "EU S",
+        "EU M",
+        "EU L"
+      ],
+      "US": [
+        "US XS",
+        "US S",
+        "US M",
+        "US L"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE454P3_1.jpg?v=1758526415",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE454P3_2.jpg?v=1758526415",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE454P3_1.jpg?v=1758526415",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE454P3_2.jpg?v=1758526415"
+    ]
+  },
+  {
+    "id": "ss-9635175104744",
+    "atelierId": "sana-safinaz",
+    "category": "clothing",
+    "subCategory": "Haute Prêt",
+    "brand": "Sana Safinaz",
+    "title": "Stitched Bended Lawn Embroidered Culotte",
+    "basePrice": 248,
+    "wasPrice": 496,
+    "isOnSale": true,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Mayfair Vault, London & Lahore",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.8%",
+    "inspectedAt": "Lahore Master Atelier & London Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-50%)",
+    "colorName": "Ivory",
+    "colorHex": "#FAF7F2",
+    "description": "Color: Sky Blue Fabric: Blended Lawn Cut: Culotte",
+    "details": {
+      "composition": "Pure Silk / Cambric Brochia luxury weave.",
+      "craftsmanship": "Master-tailored in Lahore atelier; forensic stitch vetting verified.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Funds bonded until client verification."
+    },
+    "sizes": {
+      "UK": [
+        "UK XS",
+        "UK S",
+        "UK M",
+        "UK L"
+      ],
+      "EU": [
+        "EU XS",
+        "EU S",
+        "EU M",
+        "EU L"
+      ],
+      "US": [
+        "US XS",
+        "US S",
+        "US M",
+        "US L"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE439P2T_1.jpg?v=1759750652",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE439P2T_4.jpg?v=1759750277",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE439P2T_1.jpg?v=1759750652",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE439P2T_4.jpg?v=1759750277"
+    ]
+  },
+  {
+    "id": "ss-9635166650600",
+    "atelierId": "sana-safinaz",
+    "category": "clothing",
+    "subCategory": "Haute Prêt",
+    "brand": "Sana Safinaz",
+    "title": "Stitched Cotton Embroidered Raw Silk Culotte",
+    "basePrice": 248,
+    "wasPrice": 496,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Mayfair Vault, London & Lahore",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.8%",
+    "inspectedAt": "Lahore Master Atelier & London Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-50%)",
+    "colorName": "Ivory",
+    "colorHex": "#FAF7F2",
+    "description": "Color: Green Fabric: Raw Silk Cut: Culotte",
+    "details": {
+      "composition": "Pure Silk / Cambric Brochia luxury weave.",
+      "craftsmanship": "Master-tailored in Lahore atelier; forensic stitch vetting verified.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Funds bonded until client verification."
+    },
+    "sizes": {
+      "UK": [
+        "UK XS",
+        "UK S",
+        "UK M",
+        "UK L",
+        "UK XL"
+      ],
+      "EU": [
+        "EU XS",
+        "EU S",
+        "EU M",
+        "EU L",
+        "EU XL"
+      ],
+      "US": [
+        "US XS",
+        "US S",
+        "US M",
+        "US L",
+        "US XL"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE462_1.jpg?v=1759317902",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE462_2.jpg?v=1759317902",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE462_1.jpg?v=1759317902",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE462_2.jpg?v=1759317902"
+    ]
+  },
+  {
+    "id": "ss-9635166290152",
+    "atelierId": "sana-safinaz",
+    "category": "clothing",
+    "subCategory": "Haute Prêt",
+    "brand": "Sana Safinaz",
+    "title": "Stitched Embroidered Jacquard Skinny Shalwar",
+    "basePrice": 248,
+    "wasPrice": 496,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Mayfair Vault, London & Lahore",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.8%",
+    "inspectedAt": "Lahore Master Atelier & London Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-50%)",
+    "colorName": "Ivory",
+    "colorHex": "#FAF7F2",
+    "description": "Color: Cream Fabric: Jacquard Cut: Skinny Shalwar",
+    "details": {
+      "composition": "Pure Silk / Cambric Brochia luxury weave.",
+      "craftsmanship": "Master-tailored in Lahore atelier; forensic stitch vetting verified.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Funds bonded until client verification."
+    },
+    "sizes": {
+      "UK": [
+        "UK XS",
+        "UK M",
+        "UK L",
+        "UK XL"
+      ],
+      "EU": [
+        "EU XS",
+        "EU M",
+        "EU L",
+        "EU XL"
+      ],
+      "US": [
+        "US XS",
+        "US M",
+        "US L",
+        "US XL"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE481_1.jpg?v=1764139510",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE481_2.jpg?v=1764139509",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE481_1.jpg?v=1764139510",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25SGE481_2.jpg?v=1764139509"
+    ]
+  },
+  {
+    "id": "ss-9635155575016",
+    "atelierId": "sana-safinaz",
+    "category": "clothing",
+    "subCategory": "Haute Prêt",
+    "brand": "Sana Safinaz",
+    "title": "Stitched Lawn Shalwar",
+    "basePrice": 200,
+    "wasPrice": 400,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Mayfair Vault, London & Lahore",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.8%",
+    "inspectedAt": "Lahore Master Atelier & London Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-50%)",
+    "colorName": "Ivory",
+    "colorHex": "#FAF7F2",
+    "description": "Description: A symphony of detail, composed on a dark canvas Color: Black Fabric: Lawn Cut: Zuri Shalwar",
+    "details": {
+      "composition": "Pure Silk / Cambric Brochia luxury weave.",
+      "craftsmanship": "Master-tailored in Lahore atelier; forensic stitch vetting verified.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Funds bonded until client verification."
+    },
+    "sizes": {
+      "UK": [
+        "UK XS",
+        "UK S",
+        "UK M",
+        "UK L"
+      ],
+      "EU": [
+        "EU XS",
+        "EU S",
+        "EU M",
+        "EU L"
+      ],
+      "US": [
+        "US XS",
+        "US S",
+        "US M",
+        "US L"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25ESE710P2T_1.jpg?v=1763552520",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25ESE710_1_1.jpg?v=1763552520",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25ESE710P2T_1.jpg?v=1763552520",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25ESE710_1_1.jpg?v=1763552520"
+    ]
+  },
+  {
+    "id": "ss-9635060187368",
+    "atelierId": "sana-safinaz",
+    "category": "clothing",
+    "subCategory": "Haute Prêt",
+    "brand": "Sana Safinaz",
+    "title": "Stitched Lawn Skinny Shalwar",
+    "basePrice": 147,
+    "wasPrice": 368,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Mayfair Vault, London & Lahore",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.8%",
+    "inspectedAt": "Lahore Master Atelier & London Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-60%)",
+    "colorName": "Ivory",
+    "colorHex": "#FAF7F2",
+    "description": "Color: Mustard Fabric: Lawn Cut: Skinny Shalwar",
+    "details": {
+      "composition": "Pure Silk / Cambric Brochia luxury weave.",
+      "craftsmanship": "Master-tailored in Lahore atelier; forensic stitch vetting verified.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Funds bonded until client verification."
+    },
+    "sizes": {
+      "UK": [
+        "UK S",
+        "UK M",
+        "UK L"
+      ],
+      "EU": [
+        "EU S",
+        "EU M",
+        "EU L"
+      ],
+      "US": [
+        "US S",
+        "US M",
+        "US L"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25muz039_1.jpg?v=1756730774",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25muz039_3.jpg?v=1756730774",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25muz039_1.jpg?v=1756730774",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25muz039_3.jpg?v=1756730774"
+    ]
+  },
+  {
+    "id": "ss-9635054420200",
+    "atelierId": "sana-safinaz",
+    "category": "clothing",
+    "subCategory": "Haute Prêt",
+    "brand": "Sana Safinaz",
+    "title": "Stitched Printed Viscose Shalwar",
+    "basePrice": 196,
+    "wasPrice": 392,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Mayfair Vault, London & Lahore",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.8%",
+    "inspectedAt": "Lahore Master Atelier & London Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-50%)",
+    "colorName": "Ivory",
+    "colorHex": "#FAF7F2",
+    "description": "Description: Make a statement with this bold printed article where style meets individuality Color: Multi Fabric: Viscose Cut: Skinny Shalwar",
+    "details": {
+      "composition": "Pure Silk / Cambric Brochia luxury weave.",
+      "craftsmanship": "Master-tailored in Lahore atelier; forensic stitch vetting verified.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Funds bonded until client verification."
+    },
+    "sizes": {
+      "UK": [
+        "UK XS",
+        "UK S"
+      ],
+      "EU": [
+        "EU XS",
+        "EU S"
+      ],
+      "US": [
+        "US XS",
+        "US S"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25bsp154p2t_1_d9057295-f327-4415-82fa-e765b4be39ad.jpg?v=1756731157",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25bsp154p2t_3_bf55666c-4125-4643-9e36-ce8a846833e4.jpg?v=1756731157",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25bsp154p2t_1_d9057295-f327-4415-82fa-e765b4be39ad.jpg?v=1756731157",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25bsp154p2t_3_bf55666c-4125-4643-9e36-ce8a846833e4.jpg?v=1756731157"
+    ]
+  },
+  {
+    "id": "ss-9635054387432",
+    "atelierId": "sana-safinaz",
+    "category": "clothing",
+    "subCategory": "Haute Prêt",
+    "brand": "Sana Safinaz",
+    "title": "Stitched Lawn Shirt",
+    "basePrice": 292,
+    "wasPrice": 584,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Mayfair Vault, London & Lahore",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.8%",
+    "inspectedAt": "Lahore Master Atelier & London Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-50%)",
+    "colorName": "Ivory",
+    "colorHex": "#FAF7F2",
+    "description": "Color: Orange Fabric: Lawn Cut: Basic Slip: Not Included Dupatta: Not Included Trouser: Not Included",
+    "details": {
+      "composition": "Pure Silk / Cambric Brochia luxury weave.",
+      "craftsmanship": "Master-tailored in Lahore atelier; forensic stitch vetting verified.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Funds bonded until client verification."
+    },
+    "sizes": {
+      "UK": [
+        "UK S",
+        "UK M"
+      ],
+      "EU": [
+        "EU S",
+        "EU M"
+      ],
+      "US": [
+        "US S",
+        "US M"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25muz104bp3_1.jpg?v=1789023547",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25MUZ104BP3_3.jpg?v=1789023681",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/ss25muz104bp3_1.jpg?v=1789023547",
+      "https://cdn.shopify.com/s/files/1/0740/1753/8280/files/SS25MUZ104BP3_3.jpg?v=1789023681"
+    ]
+  },
+  {
+    "id": "bq-7519080022083",
+    "atelierId": "baroque-couture",
+    "category": "clothing",
+    "subCategory": "Embroidered Velvet",
+    "brand": "Baroque",
+    "title": "Embroidered Velvet Sf-4317",
+    "basePrice": 1498,
+    "wasPrice": 1872,
+    "isOnSale": true,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Mayfair Vault",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.9%",
+    "inspectedAt": "Ayiin Forensic Authentication Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Winter Archive (-20%)",
+    "colorName": "Burgundy",
+    "colorHex": "#5E0B1B",
+    "description": "Introducing the EMBROIDERED VELVET SF-4317, a stunning three-piece ensemble that celebrates intricate craftsmanship. This luxurious collection features a richly embroidered velvet front paired with delicate organza borders, complemented by a flowing dyed silk component. The back showcases elegant embroidered organza detailing with a coordinating neckline patch. Embellished velvet sleeves with ornate borders and digital printed accents add contemporary flair, while the coordinating digital printed silk dupatta features layered embroidered organza and silk borders for a refined finish. Complete the look with the embroidered silk trouser and matching border. Perfect for those who appreciate timeless elegance with meticulous attention to detail.",
+    "details": {
+      "composition": "100% Pure Micro-Velvet with Bullion Embroidery.",
+      "craftsmanship": "Hand-beaded and finished under dual atelier inspection.",
+      "escrowGuarantee": "Bonded in sovereign escrow until 72 hours post-delivery verification."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (2.75m Shawl)"
+      ],
+      "EU": [
+        "One Size (2.75m Shawl)"
+      ],
+      "US": [
+        "One Size (2.75m Shawl)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/2277/5269/files/83_08f4af1c-5dfb-467b-9dde-8518ec89aad6.jpg?v=1762429478",
+    "imageHover": "https://cdn.shopify.com/s/files/1/2277/5269/files/81_1d92c881-934f-44a1-b80d-54d5d68017a1.jpg?v=1762429478",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/83_08f4af1c-5dfb-467b-9dde-8518ec89aad6.jpg?v=1762429478",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/81_1d92c881-934f-44a1-b80d-54d5d68017a1.jpg?v=1762429478",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/82_0a2b5303-8e42-493b-9b93-d520ec363523.jpg?v=1762429478",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/79_c0bcbcfe-efa3-4e36-acdd-70ff234934f4.jpg?v=1762592130"
+    ]
+  },
+  {
+    "id": "bq-7495295336515",
+    "atelierId": "baroque-couture",
+    "category": "clothing",
+    "subCategory": "Embroidered Velvet",
+    "brand": "Baroque",
+    "title": "Embroidered Velvet Uf-4317",
+    "basePrice": 898,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Mayfair Vault",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.9%",
+    "inspectedAt": "Ayiin Forensic Authentication Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Hand-Embroidered Velvet",
+    "colorName": "Burgundy",
+    "colorHex": "#5E0B1B",
+    "description": "Introducing the EMBROIDERED VELVET UF-4317, a stunning three-piece ensemble that celebrates intricate craftsmanship. This luxurious collection features a richly embroidered velvet front paired with delicate organza borders, complemented by a flowing dyed silk component. The back showcases elegant embroidered organza detailing with a coordinating neckline patch. Embellished velvet sleeves with ornate borders and digital printed accents add contemporary flair, while the coordinating digital printed silk dupatta features layered embroidered organza and silk borders for a refined finish. Complete the look with the embroidered silk trouser and matching border. Perfect for those who appreciate timeless elegance with meticulous attention to detail.",
+    "details": {
+      "composition": "100% Pure Micro-Velvet with Bullion Embroidery.",
+      "craftsmanship": "Hand-beaded and finished under dual atelier inspection.",
+      "escrowGuarantee": "Bonded in sovereign escrow until 72 hours post-delivery verification."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (2.75m Shawl)"
+      ],
+      "EU": [
+        "One Size (2.75m Shawl)"
+      ],
+      "US": [
+        "One Size (2.75m Shawl)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/2277/5269/files/83_7aa8306a-b5d4-4c08-a67a-4e4b7d1b6bbb.jpg?v=1759237320",
+    "imageHover": "https://cdn.shopify.com/s/files/1/2277/5269/files/81_20dea358-a178-48e0-8a36-f8a85d6223fa.jpg?v=1759237320",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/83_7aa8306a-b5d4-4c08-a67a-4e4b7d1b6bbb.jpg?v=1759237320",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/81_20dea358-a178-48e0-8a36-f8a85d6223fa.jpg?v=1759237320",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/82_b7091e97-831c-49d5-98bd-b46d360626be.jpg?v=1759237320",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/79_0f530ed3-c99b-4cef-9d36-4fbea5a75868.jpg?v=1762591979"
+    ]
+  },
+  {
+    "id": "bq-7474595496003",
+    "atelierId": "baroque-couture",
+    "category": "clothing",
+    "subCategory": "Embroidered Velvet",
+    "brand": "Baroque",
+    "title": "Digital Printed Viscose Uf-4297",
+    "basePrice": 348,
+    "wasPrice": 434,
+    "isOnSale": true,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Mayfair Vault",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.9%",
+    "inspectedAt": "Ayiin Forensic Authentication Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Winter Archive (-20%)",
+    "colorName": "Burgundy",
+    "colorHex": "#5E0B1B",
+    "description": "This DIGITAL PRINTED VISCOSE UF-4297 set features a beautifully crafted viscose silk shirt and trouser with vibrant digital prints, complemented by a digitally printed viscose shawl. The soft, breathable fabric ensures lasting comfort, while the striking designs add elegance to your wardrobe, making it perfect for both casual outings and special occasions.",
+    "details": {
+      "composition": "100% Pure Micro-Velvet with Bullion Embroidery.",
+      "craftsmanship": "Hand-beaded and finished under dual atelier inspection.",
+      "escrowGuarantee": "Bonded in sovereign escrow until 72 hours post-delivery verification."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (2.75m Shawl)"
+      ],
+      "EU": [
+        "One Size (2.75m Shawl)"
+      ],
+      "US": [
+        "One Size (2.75m Shawl)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/2277/5269/files/169_3dd8b1e1-e19e-48df-ba65-99d2ae6d93e2.jpg?v=1756985794",
+    "imageHover": "https://cdn.shopify.com/s/files/1/2277/5269/files/170_caa3670d-4833-467c-9211-64052bb70d65.jpg?v=1756985794",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/169_3dd8b1e1-e19e-48df-ba65-99d2ae6d93e2.jpg?v=1756985794",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/170_caa3670d-4833-467c-9211-64052bb70d65.jpg?v=1756985794",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/171_ce36a2a5-0eb1-4fec-b61f-fb9d2ed5ded1.jpg?v=1756985794",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/172_c4be4682-77d3-44f1-80ae-34383a878626.jpg?v=1756985794"
+    ]
+  },
+  {
+    "id": "bq-7780962566211",
+    "atelierId": "baroque-couture",
+    "category": "clothing",
+    "subCategory": "Embroidered Velvet",
+    "brand": "Baroque",
+    "title": "Plain Chiffon Dupatta-129",
+    "basePrice": 298,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Mayfair Vault",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.9%",
+    "inspectedAt": "Ayiin Forensic Authentication Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Hand-Embroidered Velvet",
+    "colorName": "Burgundy",
+    "colorHex": "#5E0B1B",
+    "description": "Elevate your wardrobe with this exquisite plain chiffon dupatta, crafted from premium lightweight chiffon fabric. The piece features an intricately embroidered border that adds a touch of sophistication and elegance to any ensemble. Perfect for layering over traditional or contemporary outfits, this versatile dupatta combines comfort with timeless style. The delicate chiffon drapes beautifully while the detailed embroidered detailing makes it an ideal choice for both everyday wear and special occasions.",
+    "details": {
+      "composition": "100% Pure Micro-Velvet with Bullion Embroidery.",
+      "craftsmanship": "Hand-beaded and finished under dual atelier inspection.",
+      "escrowGuarantee": "Bonded in sovereign escrow until 72 hours post-delivery verification."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (2.75m Shawl)"
+      ],
+      "EU": [
+        "One Size (2.75m Shawl)"
+      ],
+      "US": [
+        "One Size (2.75m Shawl)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/2277/5269/files/60_5ee18ac5-dfc2-4816-8707-25c90b188e26.jpg?v=1788950818",
+    "imageHover": "https://cdn.shopify.com/s/files/1/2277/5269/files/61_6047a400-3e6b-4610-8acf-42a9de8d3892.jpg?v=1788950818",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/60_5ee18ac5-dfc2-4816-8707-25c90b188e26.jpg?v=1788950818",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/61_6047a400-3e6b-4610-8acf-42a9de8d3892.jpg?v=1788950818"
+    ]
+  },
+  {
+    "id": "bq-7780961714243",
+    "atelierId": "baroque-couture",
+    "category": "clothing",
+    "subCategory": "Embroidered Velvet",
+    "brand": "Baroque",
+    "title": "Plain Chiffon Dupatta-128",
+    "basePrice": 298,
+    "wasPrice": 372,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Mayfair Vault",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.9%",
+    "inspectedAt": "Ayiin Forensic Authentication Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Winter Archive (-20%)",
+    "colorName": "Burgundy",
+    "colorHex": "#5E0B1B",
+    "description": "Elevate your wardrobe with this exquisite plain chiffon dupatta, crafted from premium lightweight chiffon fabric. The piece features an intricately embroidered border that adds a touch of sophistication and elegance to any ensemble. Perfect for layering over traditional or contemporary outfits, this versatile dupatta combines comfort with timeless style. The delicate chiffon drapes beautifully while the detailed embroidered detailing makes it an ideal choice for both everyday wear and special occasions.",
+    "details": {
+      "composition": "100% Pure Micro-Velvet with Bullion Embroidery.",
+      "craftsmanship": "Hand-beaded and finished under dual atelier inspection.",
+      "escrowGuarantee": "Bonded in sovereign escrow until 72 hours post-delivery verification."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (2.75m Shawl)"
+      ],
+      "EU": [
+        "One Size (2.75m Shawl)"
+      ],
+      "US": [
+        "One Size (2.75m Shawl)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/2277/5269/files/74_6adda58a-340b-4ba4-9bd9-9782ed5284b8.jpg?v=1788950352",
+    "imageHover": "https://cdn.shopify.com/s/files/1/2277/5269/files/75_5dfdb4f0-d677-4aa5-b160-0650ec9776e5.jpg?v=1788950352",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/74_6adda58a-340b-4ba4-9bd9-9782ed5284b8.jpg?v=1788950352",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/75_5dfdb4f0-d677-4aa5-b160-0650ec9776e5.jpg?v=1788950352"
+    ]
+  },
+  {
+    "id": "bq-7830974332995",
+    "atelierId": "baroque-couture",
+    "category": "clothing",
+    "subCategory": "Embroidered Velvet",
+    "brand": "Baroque",
+    "title": "Plan Velvet Frock En-1389",
+    "basePrice": 998,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Mayfair Vault",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.9%",
+    "inspectedAt": "Ayiin Forensic Authentication Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Hand-Embroidered Velvet",
+    "colorName": "Burgundy",
+    "colorHex": "#5E0B1B",
+    "description": "Elegant velvet frock with matching velvet trouser in a sophisticated plan design. This coordinated ensemble features luxurious velvet fabric throughout, offering a refined and graceful look. Complete set includes the frock, trouser, and accessories to create a polished, cohesive outfit perfect for special occasions and celebrations.",
+    "details": {
+      "composition": "100% Pure Micro-Velvet with Bullion Embroidery.",
+      "craftsmanship": "Hand-beaded and finished under dual atelier inspection.",
+      "escrowGuarantee": "Bonded in sovereign escrow until 72 hours post-delivery verification."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (2.75m Shawl)"
+      ],
+      "EU": [
+        "One Size (2.75m Shawl)"
+      ],
+      "US": [
+        "One Size (2.75m Shawl)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/2277/5269/files/60_5ee18ac5-dfc2-4816-8707-25c90b188e26.jpg?v=1788950818",
+    "imageHover": "https://cdn.shopify.com/s/files/1/2277/5269/files/61_6047a400-3e6b-4610-8acf-42a9de8d3892.jpg?v=1788950818",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/60_5ee18ac5-dfc2-4816-8707-25c90b188e26.jpg?v=1788950818",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/61_6047a400-3e6b-4610-8acf-42a9de8d3892.jpg?v=1788950818",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/62_af649d0d-5dd0-451f-8e39-fda76af0d799.jpg?v=1788950818"
+    ]
+  },
+  {
+    "id": "bq-7830959521859",
+    "atelierId": "baroque-couture",
+    "category": "clothing",
+    "subCategory": "Embroidered Velvet",
+    "brand": "Baroque",
+    "title": "Plan Velvet Frock En-1388",
+    "basePrice": 998,
+    "wasPrice": 1247,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Mayfair Vault",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.9%",
+    "inspectedAt": "Ayiin Forensic Authentication Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Winter Archive (-20%)",
+    "colorName": "Burgundy",
+    "colorHex": "#5E0B1B",
+    "description": "Elegant velvet frock with matching velvet trouser in a sophisticated plan design. This coordinated ensemble features luxurious velvet fabric throughout, offering a refined and graceful look. Complete set includes the frock, trouser, and accessories to create a polished, cohesive outfit perfect for special occasions and celebrations.",
+    "details": {
+      "composition": "100% Pure Micro-Velvet with Bullion Embroidery.",
+      "craftsmanship": "Hand-beaded and finished under dual atelier inspection.",
+      "escrowGuarantee": "Bonded in sovereign escrow until 72 hours post-delivery verification."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (2.75m Shawl)"
+      ],
+      "EU": [
+        "One Size (2.75m Shawl)"
+      ],
+      "US": [
+        "One Size (2.75m Shawl)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/2277/5269/files/71_ddaab394-7d95-43af-91b3-ff5e56b8d2c0.jpg?v=1788950352",
+    "imageHover": "https://cdn.shopify.com/s/files/1/2277/5269/files/75_5dfdb4f0-d677-4aa5-b160-0650ec9776e5.jpg?v=1788950352",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/71_ddaab394-7d95-43af-91b3-ff5e56b8d2c0.jpg?v=1788950352",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/75_5dfdb4f0-d677-4aa5-b160-0650ec9776e5.jpg?v=1788950352",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/73_717a2b91-0ae4-4f71-8689-16a7603fbba3.jpg?v=1788950353",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/74_6adda58a-340b-4ba4-9bd9-9782ed5284b8.jpg?v=1788950352"
+    ]
+  },
+  {
+    "id": "bq-7780968497219",
+    "atelierId": "baroque-couture",
+    "category": "clothing",
+    "subCategory": "Embroidered Velvet",
+    "brand": "Baroque",
+    "title": "Embroidered Velvet Shawl Vs-74",
+    "basePrice": 998,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Mayfair Vault",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.9%",
+    "inspectedAt": "Ayiin Forensic Authentication Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Hand-Embroidered Velvet",
+    "colorName": "Burgundy",
+    "colorHex": "#5E0B1B",
+    "description": "Exquisite embroidered velvet shawl crafted with intricate beadwork details. This luxurious 2.75-yard piece features elegant embroidery throughout, perfect for adding sophistication to any ensemble. The shawl comes with complementary bead accessories to enhance your styling options. Ideal for special occasions, formal events, or everyday elegance.",
+    "details": {
+      "composition": "100% Pure Micro-Velvet with Bullion Embroidery.",
+      "craftsmanship": "Hand-beaded and finished under dual atelier inspection.",
+      "escrowGuarantee": "Bonded in sovereign escrow until 72 hours post-delivery verification."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (2.75m Shawl)"
+      ],
+      "EU": [
+        "One Size (2.75m Shawl)"
+      ],
+      "US": [
+        "One Size (2.75m Shawl)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/2277/5269/files/157_09954f70-e8c6-4139-8fc3-bf38fcabb7aa.jpg?v=1788850805",
+    "imageHover": "https://cdn.shopify.com/s/files/1/2277/5269/files/161_7c5c1887-709d-460e-99df-350bcd2b5655.jpg?v=1788850805",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/157_09954f70-e8c6-4139-8fc3-bf38fcabb7aa.jpg?v=1788850805",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/161_7c5c1887-709d-460e-99df-350bcd2b5655.jpg?v=1788850805",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/159_8ecb9d6d-0e7e-458e-9de7-15cc7efbab3a.jpg?v=1788850805",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/158_2c03c479-8330-4b85-8e27-56d551746ab0.jpg?v=1788850805"
+    ]
+  },
+  {
+    "id": "bq-7780967579715",
+    "atelierId": "baroque-couture",
+    "category": "clothing",
+    "subCategory": "Embroidered Velvet",
+    "brand": "Baroque",
+    "title": "Embroidered Velvet Shawl Vs-73",
+    "basePrice": 998,
+    "wasPrice": 1247,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Mayfair Vault",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.9%",
+    "inspectedAt": "Ayiin Forensic Authentication Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Winter Archive (-20%)",
+    "colorName": "Burgundy",
+    "colorHex": "#5E0B1B",
+    "description": "Exquisite embroidered velvet shawl crafted with intricate beadwork details. This luxurious 2.75-yard piece features elegant embroidery throughout, perfect for adding sophistication to any ensemble. The shawl comes with complementary bead accessories to enhance your styling options. Ideal for special occasions, formal events, or everyday elegance.",
+    "details": {
+      "composition": "100% Pure Micro-Velvet with Bullion Embroidery.",
+      "craftsmanship": "Hand-beaded and finished under dual atelier inspection.",
+      "escrowGuarantee": "Bonded in sovereign escrow until 72 hours post-delivery verification."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (2.75m Shawl)"
+      ],
+      "EU": [
+        "One Size (2.75m Shawl)"
+      ],
+      "US": [
+        "One Size (2.75m Shawl)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/2277/5269/files/151_20114bae-54b7-4d19-9cf6-e3ce08b5fd3c.jpg?v=1788850908",
+    "imageHover": "https://cdn.shopify.com/s/files/1/2277/5269/files/152_74d5ffc6-6a07-4cc5-975d-9834d9014330.jpg?v=1788850908",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/151_20114bae-54b7-4d19-9cf6-e3ce08b5fd3c.jpg?v=1788850908",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/152_74d5ffc6-6a07-4cc5-975d-9834d9014330.jpg?v=1788850908",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/154_73c9c330-cbae-4cbd-9dd6-92f361f9d075.jpg?v=1788850908",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/155_b6c695dd-6075-4b0a-991f-6a6b0d583ad6.jpg?v=1788850908"
+    ]
+  },
+  {
+    "id": "bq-7780963385411",
+    "atelierId": "baroque-couture",
+    "category": "clothing",
+    "subCategory": "Embroidered Velvet",
+    "brand": "Baroque",
+    "title": "Embroidered Velvet Shawl Vs-66",
+    "basePrice": 998,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Mayfair Vault",
+    "dispatchHub": "Lahore Heritage Protocol",
+    "trustScore": "99.9%",
+    "inspectedAt": "Ayiin Forensic Authentication Vault",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Hand-Embroidered Velvet",
+    "colorName": "Burgundy",
+    "colorHex": "#5E0B1B",
+    "description": "Exquisite embroidered velvet shawl crafted with intricate beadwork details. This luxurious 2.75-yard piece features elegant embroidery throughout, perfect for adding sophistication to any ensemble. The shawl comes with complementary bead accessories to enhance your styling options. Ideal for special occasions, formal events, or everyday elegance.",
+    "details": {
+      "composition": "100% Pure Micro-Velvet with Bullion Embroidery.",
+      "craftsmanship": "Hand-beaded and finished under dual atelier inspection.",
+      "escrowGuarantee": "Bonded in sovereign escrow until 72 hours post-delivery verification."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (2.75m Shawl)"
+      ],
+      "EU": [
+        "One Size (2.75m Shawl)"
+      ],
+      "US": [
+        "One Size (2.75m Shawl)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/2277/5269/files/23_46040d0a-98b5-44fe-bf6a-94fa9c70912a.jpg?v=1788852362",
+    "imageHover": "https://cdn.shopify.com/s/files/1/2277/5269/files/22_58f8646a-da24-49b8-9b76-84176b701664.jpg?v=1788852362",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/23_46040d0a-98b5-44fe-bf6a-94fa9c70912a.jpg?v=1788852362",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/22_58f8646a-da24-49b8-9b76-84176b701664.jpg?v=1788852362",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/24_436d0ea4-d3fd-447a-b2cb-f5d6b78941d2.jpg?v=1788852362",
+      "https://cdn.shopify.com/s/files/1/2277/5269/files/26_fda49f8c-96f3-412c-9448-6dcd6c797589.jpg?v=1788852361"
+    ]
+  },
+  {
+    "id": "bo-9249272496182",
+    "atelierId": "breakout-atelier",
+    "category": "bags",
+    "subCategory": "Structured Bags",
+    "brand": "Breakout",
+    "title": "Pleated Bag With Flap Detail",
+    "basePrice": 425,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & Dubai DIFC Hub",
+    "dispatchHub": "Dubai DIFC Hub",
+    "trustScore": "99.3%",
+    "inspectedAt": "Ayiin Regional Authenticity Vault, Dubai",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Official Drop",
+    "colorName": "BURGUNDY",
+    "colorHex": "#5E0B1B",
+    "description": "Structured modern silhouette featuring precision stitching, reinforced hardware, and functional compartments.",
+    "details": {
+      "composition": "Structured Box Calfskin / Textured Nappa with high-tensile brass hardware.",
+      "craftsmanship": "Hand-inspected for edge sealing and hardware alignment.",
+      "escrowGuarantee": "Direct brand consignment with Ayiin Escrow buyer guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (28cm)"
+      ],
+      "EU": [
+        "One Size (28cm)"
+      ],
+      "US": [
+        "One Size (28cm)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BRG_1.jpg?v=1787985546",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BRG_2.jpg?v=1787985545",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BRG_1.jpg?v=1787985546",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BRG_2.jpg?v=1787985545",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BRG_3.jpg?v=1787985546",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BRG_4.jpg?v=1787985545"
+    ]
+  },
+  {
+    "id": "bo-9249272463414",
+    "atelierId": "breakout-atelier",
+    "category": "bags",
+    "subCategory": "Structured Bags",
+    "brand": "Breakout",
+    "title": "Pleated Bag With Flap Detail",
+    "basePrice": 425,
+    "wasPrice": 531,
+    "isOnSale": true,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & Dubai DIFC Hub",
+    "dispatchHub": "Dubai DIFC Hub",
+    "trustScore": "99.3%",
+    "inspectedAt": "Ayiin Regional Authenticity Vault, Dubai",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "BEIGE",
+    "colorHex": "#0B132B",
+    "description": "Structured modern silhouette featuring precision stitching, reinforced hardware, and functional compartments.",
+    "details": {
+      "composition": "Structured Box Calfskin / Textured Nappa with high-tensile brass hardware.",
+      "craftsmanship": "Hand-inspected for edge sealing and hardware alignment.",
+      "escrowGuarantee": "Direct brand consignment with Ayiin Escrow buyer guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (28cm)"
+      ],
+      "EU": [
+        "One Size (28cm)"
+      ],
+      "US": [
+        "One Size (28cm)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BGE_1.jpg?v=1787985561",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BGE_2.jpg?v=1787985561",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BGE_1.jpg?v=1787985561",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BGE_2.jpg?v=1787985561",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BGE_3.jpg?v=1787985562",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG035-BGE_4.jpg?v=1787985562"
+    ]
+  },
+  {
+    "id": "bo-9249272430646",
+    "atelierId": "breakout-atelier",
+    "category": "bags",
+    "subCategory": "Structured Bags",
+    "brand": "Breakout",
+    "title": "Buckle Detail Hand Bag",
+    "basePrice": 400,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & Dubai DIFC Hub",
+    "dispatchHub": "Dubai DIFC Hub",
+    "trustScore": "99.3%",
+    "inspectedAt": "Ayiin Regional Authenticity Vault, Dubai",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Official Drop",
+    "colorName": "BROWN",
+    "colorHex": "#0B132B",
+    "description": "Structured modern silhouette featuring precision stitching, reinforced hardware, and functional compartments.",
+    "details": {
+      "composition": "Structured Box Calfskin / Textured Nappa with high-tensile brass hardware.",
+      "craftsmanship": "Hand-inspected for edge sealing and hardware alignment.",
+      "escrowGuarantee": "Direct brand consignment with Ayiin Escrow buyer guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (28cm)"
+      ],
+      "EU": [
+        "One Size (28cm)"
+      ],
+      "US": [
+        "One Size (28cm)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BRO_1.jpg?v=1787985573",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BRO_2.jpg?v=1787985573",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BRO_1.jpg?v=1787985573",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BRO_2.jpg?v=1787985573",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BRO_5.jpg?v=1787985574",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BRO_3.jpg?v=1787985573"
+    ]
+  },
+  {
+    "id": "bo-9249272397878",
+    "atelierId": "breakout-atelier",
+    "category": "bags",
+    "subCategory": "Structured Bags",
+    "brand": "Breakout",
+    "title": "Buckle Detail Hand Bag",
+    "basePrice": 400,
+    "wasPrice": 500,
+    "isOnSale": true,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & Dubai DIFC Hub",
+    "dispatchHub": "Dubai DIFC Hub",
+    "trustScore": "99.3%",
+    "inspectedAt": "Ayiin Regional Authenticity Vault, Dubai",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "BEIGE",
+    "colorHex": "#0B132B",
+    "description": "Structured modern silhouette featuring precision stitching, reinforced hardware, and functional compartments.",
+    "details": {
+      "composition": "Structured Box Calfskin / Textured Nappa with high-tensile brass hardware.",
+      "craftsmanship": "Hand-inspected for edge sealing and hardware alignment.",
+      "escrowGuarantee": "Direct brand consignment with Ayiin Escrow buyer guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (28cm)"
+      ],
+      "EU": [
+        "One Size (28cm)"
+      ],
+      "US": [
+        "One Size (28cm)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BGE_1.jpg?v=1787985584",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BGE_2.jpg?v=1787985583",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BGE_1.jpg?v=1787985584",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BGE_2.jpg?v=1787985583",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BGE_5.jpg?v=1787985584",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG032-BGE_3.jpg?v=1787985583"
+    ]
+  },
+  {
+    "id": "bo-9249272627254",
+    "atelierId": "breakout-atelier",
+    "category": "bags",
+    "subCategory": "Structured Bags",
+    "brand": "Breakout",
+    "title": "Convertible Backpack",
+    "basePrice": 425,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & Dubai DIFC Hub",
+    "dispatchHub": "Dubai DIFC Hub",
+    "trustScore": "99.3%",
+    "inspectedAt": "Ayiin Regional Authenticity Vault, Dubai",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Official Drop",
+    "colorName": "BROWN",
+    "colorHex": "#0B132B",
+    "description": "Structured modern silhouette featuring precision stitching, reinforced hardware, and functional compartments.",
+    "details": {
+      "composition": "Structured Box Calfskin / Textured Nappa with high-tensile brass hardware.",
+      "craftsmanship": "Hand-inspected for edge sealing and hardware alignment.",
+      "escrowGuarantee": "Direct brand consignment with Ayiin Escrow buyer guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (28cm)"
+      ],
+      "EU": [
+        "One Size (28cm)"
+      ],
+      "US": [
+        "One Size (28cm)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BRO_1.jpg?v=1787985493",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BRO_2.jpg?v=1787985493",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BRO_1.jpg?v=1787985493",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BRO_2.jpg?v=1787985493",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BRO_3.jpg?v=1787985493",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BRO_4.jpg?v=1787985493"
+    ]
+  },
+  {
+    "id": "bo-9249272594486",
+    "atelierId": "breakout-atelier",
+    "category": "bags",
+    "subCategory": "Structured Bags",
+    "brand": "Breakout",
+    "title": "Convertible Backpack",
+    "basePrice": 425,
+    "wasPrice": 531,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & Dubai DIFC Hub",
+    "dispatchHub": "Dubai DIFC Hub",
+    "trustScore": "99.3%",
+    "inspectedAt": "Ayiin Regional Authenticity Vault, Dubai",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "BLACK",
+    "colorHex": "#0B132B",
+    "description": "Structured modern silhouette featuring precision stitching, reinforced hardware, and functional compartments.",
+    "details": {
+      "composition": "Structured Box Calfskin / Textured Nappa with high-tensile brass hardware.",
+      "craftsmanship": "Hand-inspected for edge sealing and hardware alignment.",
+      "escrowGuarantee": "Direct brand consignment with Ayiin Escrow buyer guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (28cm)"
+      ],
+      "EU": [
+        "One Size (28cm)"
+      ],
+      "US": [
+        "One Size (28cm)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BLK_1.jpg?v=1787985502",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BLK_2.jpg?v=1787985503",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BLK_1.jpg?v=1787985502",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BLK_2.jpg?v=1787985503",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BLK_3.jpg?v=1787985503",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG039-BLK_4.jpg?v=1787985503"
+    ]
+  },
+  {
+    "id": "bo-9249272561718",
+    "atelierId": "breakout-atelier",
+    "category": "bags",
+    "subCategory": "Structured Bags",
+    "brand": "Breakout",
+    "title": "Hobo Shoulder Bag",
+    "basePrice": 425,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & Dubai DIFC Hub",
+    "dispatchHub": "Dubai DIFC Hub",
+    "trustScore": "99.3%",
+    "inspectedAt": "Ayiin Regional Authenticity Vault, Dubai",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Official Drop",
+    "colorName": "RED",
+    "colorHex": "#0B132B",
+    "description": "Structured modern silhouette featuring precision stitching, reinforced hardware, and functional compartments.",
+    "details": {
+      "composition": "Structured Box Calfskin / Textured Nappa with high-tensile brass hardware.",
+      "craftsmanship": "Hand-inspected for edge sealing and hardware alignment.",
+      "escrowGuarantee": "Direct brand consignment with Ayiin Escrow buyer guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (28cm)"
+      ],
+      "EU": [
+        "One Size (28cm)"
+      ],
+      "US": [
+        "One Size (28cm)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-RED_4.jpg?v=1787985514",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-RED_2.jpg?v=1787985514",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-RED_4.jpg?v=1787985514",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-RED_2.jpg?v=1787985514",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-RED_5.jpg?v=1787985514",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-RED_9.jpg?v=1787985514"
+    ]
+  },
+  {
+    "id": "bo-9249272528950",
+    "atelierId": "breakout-atelier",
+    "category": "bags",
+    "subCategory": "Structured Bags",
+    "brand": "Breakout",
+    "title": "Hobo Shoulder Bag",
+    "basePrice": 425,
+    "wasPrice": 531,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & Dubai DIFC Hub",
+    "dispatchHub": "Dubai DIFC Hub",
+    "trustScore": "99.3%",
+    "inspectedAt": "Ayiin Regional Authenticity Vault, Dubai",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "BLACK",
+    "colorHex": "#0B132B",
+    "description": "Structured modern silhouette featuring precision stitching, reinforced hardware, and functional compartments.",
+    "details": {
+      "composition": "Structured Box Calfskin / Textured Nappa with high-tensile brass hardware.",
+      "craftsmanship": "Hand-inspected for edge sealing and hardware alignment.",
+      "escrowGuarantee": "Direct brand consignment with Ayiin Escrow buyer guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (28cm)"
+      ],
+      "EU": [
+        "One Size (28cm)"
+      ],
+      "US": [
+        "One Size (28cm)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-BLK_1.jpg?v=1787985531",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-BLK_2.jpg?v=1787985531",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-BLK_1.jpg?v=1787985531",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-BLK_2.jpg?v=1787985531",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-BLK_3.jpg?v=1787985531",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/26FBG037-BLK_4.jpg?v=1787985531"
+    ]
+  },
+  {
+    "id": "bo-7950950137910",
+    "atelierId": "breakout-atelier",
+    "category": "bags",
+    "subCategory": "Structured Bags",
+    "brand": "Breakout",
+    "title": "Shoulder Bag",
+    "basePrice": 162,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & Dubai DIFC Hub",
+    "dispatchHub": "Dubai DIFC Hub",
+    "trustScore": "99.3%",
+    "inspectedAt": "Ayiin Regional Authenticity Vault, Dubai",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Official Drop",
+    "colorName": "BLACK",
+    "colorHex": "#0B132B",
+    "description": "A large shoulder bag featuring a contrasting white striped design. 100% Polyester",
+    "details": {
+      "composition": "Structured Box Calfskin / Textured Nappa with high-tensile brass hardware.",
+      "craftsmanship": "Hand-inspected for edge sealing and hardware alignment.",
+      "escrowGuarantee": "Direct brand consignment with Ayiin Escrow buyer guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (28cm)"
+      ],
+      "EU": [
+        "One Size (28cm)"
+      ],
+      "US": [
+        "One Size (28cm)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/25FBG040-BLK_4.jpg?v=1759236448",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/25FBG040-BLK_2.jpg?v=1759236448",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/25FBG040-BLK_4.jpg?v=1759236448",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/25FBG040-BLK_2.jpg?v=1759236448",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/25FBG040-BLK_1.jpg?v=1759236448",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/25FBG040-BLK_3.jpg?v=1759236448"
+    ]
+  },
+  {
+    "id": "bo-7933470441526",
+    "atelierId": "breakout-atelier",
+    "category": "bags",
+    "subCategory": "Structured Bags",
+    "brand": "Breakout",
+    "title": "Flap Shoulder Bag",
+    "basePrice": 212,
+    "wasPrice": 265,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & Dubai DIFC Hub",
+    "dispatchHub": "Dubai DIFC Hub",
+    "trustScore": "99.3%",
+    "inspectedAt": "Ayiin Regional Authenticity Vault, Dubai",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "PINK",
+    "colorHex": "#0B132B",
+    "description": "Pastel pink shoulder bag with a flap closure and silver accents, complete with two detachable straps for styling options.",
+    "details": {
+      "composition": "Structured Box Calfskin / Textured Nappa with high-tensile brass hardware.",
+      "craftsmanship": "Hand-inspected for edge sealing and hardware alignment.",
+      "escrowGuarantee": "Direct brand consignment with Ayiin Escrow buyer guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "One Size (28cm)"
+      ],
+      "EU": [
+        "One Size (28cm)"
+      ],
+      "US": [
+        "One Size (28cm)"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/DSC_1212.jpg?v=1757937327",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/DSC_1213.jpg?v=1757937327",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/DSC_1212.jpg?v=1757937327",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/DSC_1213.jpg?v=1757937327",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/DSC_1214.jpg?v=1757937327",
+      "https://cdn.shopify.com/s/files/1/0202/5884/8822/files/DSC_1215.jpg?v=1757937327"
+    ]
+  },
+  {
+    "id": "lama-7545176817706",
+    "atelierId": "lama-retail",
+    "category": "footwear",
+    "subCategory": "Artisanal Footwear",
+    "brand": "LAMA",
+    "title": "Chunky Leather Sandals",
+    "basePrice": 252,
+    "wasPrice": 425,
+    "isOnSale": true,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Vault",
+    "dispatchHub": "London Mayfair Vault",
+    "trustScore": "99.5%",
+    "inspectedAt": "Ayiin Quality Vetting Suite",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "BLACK",
+    "colorHex": "#0B132B",
+    "description": "Chunky sandals that come super comfy with thick top band. - Material real leather - Ankle grip - Gritted outsole in rubber Our chunky sandals run a size big so please purchase one size down Note: The actual color of the product may vary slightly from the image.",
+    "details": {
+      "composition": "Genuine Hand-Burnished Box Leather with no-slip vulcanized rubber sole.",
+      "craftsmanship": "Hand-lasted with reinforced welt and edge-finished accents.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Inspect in person before funds release."
+    },
+    "sizes": {
+      "UK": [
+        "UK 35",
+        "UK 36",
+        "UK 37",
+        "UK 38",
+        "UK 39",
+        "UK 40",
+        "UK 41"
+      ],
+      "EU": [
+        "EU 35",
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ],
+      "US": [
+        "US 35",
+        "US 36",
+        "US 37",
+        "US 38",
+        "US 39",
+        "US 40",
+        "US 41"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-BLACK-CHUNKY-LEATHER-SANDALS_2.webp?v=1739413669",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-BLK_2.jpg?v=1739413669",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-BLACK-CHUNKY-LEATHER-SANDALS_2.webp?v=1739413669",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-BLK_2.jpg?v=1739413669",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-BLK_4.jpg?v=1739413669",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-BLK_1.jpg?v=1739413669"
+    ]
+  },
+  {
+    "id": "lama-7545171279914",
+    "atelierId": "lama-retail",
+    "category": "footwear",
+    "subCategory": "Artisanal Footwear",
+    "brand": "LAMA",
+    "title": "Leather Boat Shoes",
+    "basePrice": 563,
+    "wasPrice": 664,
+    "isOnSale": true,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Vault",
+    "dispatchHub": "London Mayfair Vault",
+    "trustScore": "99.5%",
+    "inspectedAt": "Ayiin Quality Vetting Suite",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "NAVY",
+    "colorHex": "#0B132B",
+    "description": "Final Sale. No Returns. Made in real leather, boat shoes with contrasting stitched panel and a white outsole. Note: The actual color of the product may vary slightly from the image.",
+    "details": {
+      "composition": "Genuine Hand-Burnished Box Leather with no-slip vulcanized rubber sole.",
+      "craftsmanship": "Hand-lasted with reinforced welt and edge-finished accents.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Inspect in person before funds release."
+    },
+    "sizes": {
+      "UK": [
+        "UK 40",
+        "UK 41",
+        "UK 42",
+        "UK 43",
+        "UK 44",
+        "UK 45"
+      ],
+      "EU": [
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45"
+      ],
+      "US": [
+        "US 40",
+        "US 41",
+        "US 42",
+        "US 43",
+        "US 44",
+        "US 45"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/STRMBL0001-NAVY-MAN-BOAT-SHOES_1_958adf56-b71f-4122-8581-dfb48b232a0e.webp?v=1739412987",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/STRMBL0001-NAVY-MAN-BOAT-SHOES_2_d5587c38-0156-4adc-9fcd-7e7869d63cc7.webp?v=1739412987",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/STRMBL0001-NAVY-MAN-BOAT-SHOES_1_958adf56-b71f-4122-8581-dfb48b232a0e.webp?v=1739412987",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/STRMBL0001-NAVY-MAN-BOAT-SHOES_2_d5587c38-0156-4adc-9fcd-7e7869d63cc7.webp?v=1739412987",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/leather-boat-shoes-lama-retail-1_ecc1c171-381b-4fac-b043-e83128237054.jpg?v=1739412987",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/leather-boat-shoes-lama-retail-2_e44f691f-6ee1-4562-a75d-e3a35281c627.jpg?v=1739412987"
+    ]
+  },
+  {
+    "id": "lama-7545166725162",
+    "atelierId": "lama-retail",
+    "category": "footwear",
+    "subCategory": "Artisanal Footwear",
+    "brand": "LAMA",
+    "title": "Chunky Leather Sandals",
+    "basePrice": 360,
+    "wasPrice": 425,
+    "isOnSale": true,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Vault",
+    "dispatchHub": "London Mayfair Vault",
+    "trustScore": "99.5%",
+    "inspectedAt": "Ayiin Quality Vetting Suite",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "TAN",
+    "colorHex": "#0B132B",
+    "description": "Real leather, chunky sandals that come super comfy with thick top band, ankle grip and gritted outsole in rubber. Note : Our chunky sandals run a size big so please purchase one size down",
+    "details": {
+      "composition": "Genuine Hand-Burnished Box Leather with no-slip vulcanized rubber sole.",
+      "craftsmanship": "Hand-lasted with reinforced welt and edge-finished accents.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Inspect in person before funds release."
+    },
+    "sizes": {
+      "UK": [
+        "UK 35",
+        "UK 36",
+        "UK 37",
+        "UK 38",
+        "UK 39",
+        "UK 40",
+        "UK 41"
+      ],
+      "EU": [
+        "EU 35",
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ],
+      "US": [
+        "US 35",
+        "US 36",
+        "US 37",
+        "US 38",
+        "US 39",
+        "US 40",
+        "US 41"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-TAN-CHUNKY-LEATHER-SANDALS_6_1dc49883-9e13-49d9-a439-54e0a588a7b0.webp?v=1739412465",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-TAN-CHUNKY-LEATHER-SANDALS_5_d22e8d23-b2ac-42aa-a9fd-728777de9bb6.webp?v=1739412465",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-TAN-CHUNKY-LEATHER-SANDALS_6_1dc49883-9e13-49d9-a439-54e0a588a7b0.webp?v=1739412465",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-TAN-CHUNKY-LEATHER-SANDALS_5_d22e8d23-b2ac-42aa-a9fd-728777de9bb6.webp?v=1739412465",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-TAN-CHUNKY-LEATHER-SANDALS_4_6a6cfa98-cfcb-46c8-923e-10e47986215b.webp?v=1739412465",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWSD0001-TAN-CHUNKY-LEATHER-SANDALS_1_9bae2859-627a-4738-a1b8-909a445ade21.webp?v=1739412465"
+    ]
+  },
+  {
+    "id": "lama-7545166659626",
+    "atelierId": "lama-retail",
+    "category": "footwear",
+    "subCategory": "Artisanal Footwear",
+    "brand": "LAMA",
+    "title": "Jupiter Leather Sandals",
+    "basePrice": 252,
+    "wasPrice": 425,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Vault",
+    "dispatchHub": "London Mayfair Vault",
+    "trustScore": "99.5%",
+    "inspectedAt": "Ayiin Quality Vetting Suite",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "BLACK",
+    "colorHex": "#0B132B",
+    "description": "Super cool, super comfy leather sandals with a tri-strap in chunky gritted rubber sole and a high quality soft leather upper. Our Jupiter sandals run a size big so please purchase one size down. Note: The actual color of the product may vary slightly from the image.",
+    "details": {
+      "composition": "Genuine Hand-Burnished Box Leather with no-slip vulcanized rubber sole.",
+      "craftsmanship": "Hand-lasted with reinforced welt and edge-finished accents.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Inspect in person before funds release."
+    },
+    "sizes": {
+      "UK": [
+        "UK 35",
+        "UK 36",
+        "UK 37",
+        "UK 38",
+        "UK 39",
+        "UK 40",
+        "UK 41"
+      ],
+      "EU": [
+        "EU 35",
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ],
+      "US": [
+        "US 35",
+        "US 36",
+        "US 37",
+        "US 38",
+        "US 39",
+        "US 40",
+        "US 41"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/jupiter-leather-sandals-lama-retail-1.jpg?v=1739412452",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/jupiter-leather-sandals-lama-retail-2_392111b5-7064-4b73-ba76-18d28d7ceec2.jpg?v=1739412452",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/jupiter-leather-sandals-lama-retail-1.jpg?v=1739412452",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/jupiter-leather-sandals-lama-retail-2_392111b5-7064-4b73-ba76-18d28d7ceec2.jpg?v=1739412452",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/jupiter-leather-sandals-lama-retail-3_0b46aeee-c565-49e9-9c1e-f6c9df954715.jpg?v=1739412452",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/jupiter-leather-sandals-lama-retail-4_5c51719c-9cc0-4597-9328-aa846ebaf34b.jpg?v=1739412452"
+    ]
+  },
+  {
+    "id": "lama-7545052659754",
+    "atelierId": "lama-retail",
+    "category": "footwear",
+    "subCategory": "Artisanal Footwear",
+    "brand": "LAMA",
+    "title": "Leather Biker Boots",
+    "basePrice": 479,
+    "wasPrice": 808,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Vault",
+    "dispatchHub": "London Mayfair Vault",
+    "trustScore": "99.5%",
+    "inspectedAt": "Ayiin Quality Vetting Suite",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "BLACK",
+    "colorHex": "#0B132B",
+    "description": "Genuine leather biker style lace-up boots with dull gold eyelets. Toe Type : Round toe Design detail : Leather lace-up boots with comfortable leather insole and anti-slip outsole. Material : 100% ethically sourced genuine leather outsole. Occasion : Everyday casual Note : The actual color of the product may vary slightly from the image.",
+    "details": {
+      "composition": "Genuine Hand-Burnished Box Leather with no-slip vulcanized rubber sole.",
+      "craftsmanship": "Hand-lasted with reinforced welt and edge-finished accents.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Inspect in person before funds release."
+    },
+    "sizes": {
+      "UK": [
+        "UK 35",
+        "UK 36",
+        "UK 37",
+        "UK 38",
+        "UK 39",
+        "UK 40",
+        "UK 41"
+      ],
+      "EU": [
+        "EU 35",
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41"
+      ],
+      "US": [
+        "US 35",
+        "US 36",
+        "US 37",
+        "US 38",
+        "US 39",
+        "US 40",
+        "US 41"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWBT0001-black-joliebikerboots_2_0d3bcb20-c32c-4526-9170-f00696dbab9a.webp?v=1739408611",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWBT0001-black-joliebikerboots_8_8942ef5f-23d8-41eb-8a0a-29478d15e8a1.webp?v=1739408611",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWBT0001-black-joliebikerboots_2_0d3bcb20-c32c-4526-9170-f00696dbab9a.webp?v=1739408611",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWBT0001-black-joliebikerboots_8_8942ef5f-23d8-41eb-8a0a-29478d15e8a1.webp?v=1739408611",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWBT0001-black-joliebikerboots_9_49293c06-900d-4a3f-a588-449870564819.webp?v=1739408611",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFWBT0001-black-joliebikerboots_10_2b3459d2-71c1-49c7-9f29-01960a1fa706.webp?v=1739408611"
+    ]
+  },
+  {
+    "id": "lama-7545051873322",
+    "atelierId": "lama-retail",
+    "category": "footwear",
+    "subCategory": "Artisanal Footwear",
+    "brand": "LAMA",
+    "title": "Suede Leather Chelseas",
+    "basePrice": 451,
+    "wasPrice": 760,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Vault",
+    "dispatchHub": "London Mayfair Vault",
+    "trustScore": "99.5%",
+    "inspectedAt": "Ayiin Quality Vetting Suite",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "BROWN",
+    "colorHex": "#0B132B",
+    "description": "Genuine suede leather ankle high Chelsea boots with wide elastic bands on the sides for ease of wearing. Toe Type : Round toe Design details : Suede leather boots with comfortable leather insole and anti-slip outsole. Material : Ethically sourced 100% genuine leather. Occasion : Daily casual Note : The actual color of the product may vary slightly from the image.",
+    "details": {
+      "composition": "Genuine Hand-Burnished Box Leather with no-slip vulcanized rubber sole.",
+      "craftsmanship": "Hand-lasted with reinforced welt and edge-finished accents.",
+      "escrowGuarantee": "Protected under Ayiin Escrow. Inspect in person before funds release."
+    },
+    "sizes": {
+      "UK": [
+        "UK 40",
+        "UK 41",
+        "UK 42",
+        "UK 43",
+        "UK 44",
+        "UK 45",
+        "UK 46"
+      ],
+      "EU": [
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46"
+      ],
+      "US": [
+        "US 40",
+        "US 41",
+        "US 42",
+        "US 43",
+        "US 44",
+        "US 45",
+        "US 46"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFMCB0001-BRN-BUDDY-CHELSEA-BOOTS_2.jpg?v=1739408588",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFMCB0001-BROWN-SUEDE-LEATHER-CHELSEAS_1.jpg?v=1739408588",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFMCB0001-BRN-BUDDY-CHELSEA-BOOTS_2.jpg?v=1739408588",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFMCB0001-BROWN-SUEDE-LEATHER-CHELSEAS_1.jpg?v=1739408588",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFMCB0001-BROWN-SUEDE-LEATHER-CHELSEAS_2.jpg?v=1739408588",
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/SHFMCB0001-BROWN-SUEDE-LEATHER-CHELSEAS_3.jpg?v=1739408588"
+    ]
+  },
+  {
+    "id": "lama-belt-7545170919466",
+    "atelierId": "lama-retail",
+    "category": "belts",
+    "subCategory": "Fine Belts",
+    "brand": "LAMA",
+    "title": "Slim Woven Belt",
+    "basePrice": 272,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": true,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Vault",
+    "dispatchHub": "London Mayfair Vault",
+    "trustScore": "99.5%",
+    "inspectedAt": "Ayiin Quality Vetting Suite",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Woven & Saddle Leather",
+    "colorName": "BLACK",
+    "colorHex": "#0B132B",
+    "description": "Slim woven brushed leather finished belt with a matte brass buckle. Note : The actual color of the product may vary slightly from the image.",
+    "details": {
+      "composition": "Woven fabric and genuine bridle leather trim with brushed brass hardware.",
+      "craftsmanship": "Hand-assembled and tested for tensile buckle endurance.",
+      "escrowGuarantee": "Bonded escrow security with instant replacement guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "UNIVERSAL"
+      ],
+      "EU": [
+        "UNIVERSAL"
+      ],
+      "US": [
+        "UNIVERSAL"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_303baeef-2cfd-47d2-a34f-02e00610b496.jpg?v=1739412921",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_303baeef-2cfd-47d2-a34f-02e00610b496.jpg?v=1739412921",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_303baeef-2cfd-47d2-a34f-02e00610b496.jpg?v=1739412921"
+    ]
+  },
+  {
+    "id": "lama-belt-7545170886698",
+    "atelierId": "lama-retail",
+    "category": "belts",
+    "subCategory": "Fine Belts",
+    "brand": "LAMA",
+    "title": "Slim Woven Belt",
+    "basePrice": 272,
+    "wasPrice": 340,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Vault",
+    "dispatchHub": "London Mayfair Vault",
+    "trustScore": "99.5%",
+    "inspectedAt": "Ayiin Quality Vetting Suite",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "COFFEE",
+    "colorHex": "#0B132B",
+    "description": "Slim woven brushed leather finished belt with a matte brass buckle. Note : The actual color of the product may vary slightly from the image.",
+    "details": {
+      "composition": "Woven fabric and genuine bridle leather trim with brushed brass hardware.",
+      "craftsmanship": "Hand-assembled and tested for tensile buckle endurance.",
+      "escrowGuarantee": "Bonded escrow security with instant replacement guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "UNIVERSAL"
+      ],
+      "EU": [
+        "UNIVERSAL"
+      ],
+      "US": [
+        "UNIVERSAL"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_8e54760c-3750-4ede-a882-b1866db9e962.jpg?v=1739412917",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_8e54760c-3750-4ede-a882-b1866db9e962.jpg?v=1739412917",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_8e54760c-3750-4ede-a882-b1866db9e962.jpg?v=1739412917"
+    ]
+  },
+  {
+    "id": "lama-belt-7545170853930",
+    "atelierId": "lama-retail",
+    "category": "belts",
+    "subCategory": "Fine Belts",
+    "brand": "LAMA",
+    "title": "Slim Woven Belt",
+    "basePrice": 272,
+    "wasPrice": null,
+    "isOnSale": false,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Vault",
+    "dispatchHub": "London Mayfair Vault",
+    "trustScore": "99.5%",
+    "inspectedAt": "Ayiin Quality Vetting Suite",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Woven & Saddle Leather",
+    "colorName": "BROWN",
+    "colorHex": "#0B132B",
+    "description": "Slim woven brushed leather finished belt with a matte brass buckle. Note : The actual color of the product may vary slightly from the image.",
+    "details": {
+      "composition": "Woven fabric and genuine bridle leather trim with brushed brass hardware.",
+      "craftsmanship": "Hand-assembled and tested for tensile buckle endurance.",
+      "escrowGuarantee": "Bonded escrow security with instant replacement guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "UNIVERSAL"
+      ],
+      "EU": [
+        "UNIVERSAL"
+      ],
+      "US": [
+        "UNIVERSAL"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_ae2d07ec-729d-470e-b3ef-8cb00a13dc1d.jpg?v=1739412914",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_ae2d07ec-729d-470e-b3ef-8cb00a13dc1d.jpg?v=1739412914",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_ae2d07ec-729d-470e-b3ef-8cb00a13dc1d.jpg?v=1739412914"
+    ]
+  },
+  {
+    "id": "lama-belt-7545170821162",
+    "atelierId": "lama-retail",
+    "category": "belts",
+    "subCategory": "Fine Belts",
+    "brand": "LAMA",
+    "title": "Slim Woven Belt",
+    "basePrice": 272,
+    "wasPrice": 340,
+    "isOnSale": true,
+    "isNewArrival": false,
+    "isBestAtelier": true,
+    "origin": "Lahore & London Vault",
+    "dispatchHub": "London Mayfair Vault",
+    "trustScore": "99.5%",
+    "inspectedAt": "Ayiin Quality Vetting Suite",
+    "dispatchTime": "2-4 business days via DHL Express",
+    "tag": "Sale (-20%)",
+    "colorName": "TAN",
+    "colorHex": "#0B132B",
+    "description": "Slim woven brushed leather finished belt with a matte brass buckle. Note : The actual color of the product may vary slightly from the image.",
+    "details": {
+      "composition": "Woven fabric and genuine bridle leather trim with brushed brass hardware.",
+      "craftsmanship": "Hand-assembled and tested for tensile buckle endurance.",
+      "escrowGuarantee": "Bonded escrow security with instant replacement guarantee."
+    },
+    "sizes": {
+      "UK": [
+        "UNIVERSAL"
+      ],
+      "EU": [
+        "UNIVERSAL"
+      ],
+      "US": [
+        "UNIVERSAL"
+      ]
+    },
+    "image": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_3819da68-4be7-45bb-9111-5570a668cb53.jpg?v=1739412912",
+    "imageHover": "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_3819da68-4be7-45bb-9111-5570a668cb53.jpg?v=1739412912",
+    "gallery": [
+      "https://cdn.shopify.com/s/files/1/0635/0166/4298/files/slim-woven-belt-lama-retail_3819da68-4be7-45bb-9111-5570a668cb53.jpg?v=1739412912"
+    ]
+  }
+]
